@@ -1,0 +1,62 @@
+body{
+  background-color: blue;
+}
+div{
+  background-color: white;
+}
+.home{
+  padding-bottom: 27.5em;
+}
+.blogs{
+  padding-bottom: 9.25em;
+}
+.contact{
+  padding-bottom: 25em;
+}
+.blogDetail{
+  padding-bottom: 27.25em;
+}
+nav {
+  background-color: white;
+  color: white;
+  padding: 1em;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 400px;
+}
+
+nav a {
+  color: blue;
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+h1 {
+  margin: 1em 0;
+  color: blue;
+}
+h2 {
+  color: blue;
+}
+p {
+  margin: 0.5em 0;
+  color: blue;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 1em 0;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
